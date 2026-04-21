@@ -2,7 +2,7 @@
 
 This repository hosts public-facing information for available products, including Privacy Policies and Support pages. Content is served via GitHub Pages.
 
-## Bellhop: Time Awareness
+## Bellhop Cue: Time Awareness
 
 | Resource | URL |
 |---|---|
